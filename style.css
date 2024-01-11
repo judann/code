@@ -1,0 +1,20 @@
+body {
+    display: table;
+    width: 80%;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+.maximale_hoehe {
+    height: 100%;
+    background-color: deepskyblue;
+}
+
+nav {
+    background-color: limegreen !important;
+}
+
+.tabellen_zelle {
+    display: table-row;
+    background-color: orange;
+}
